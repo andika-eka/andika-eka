@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-my name is Andika, i'm a third year computer science student a undiksha. 
-i know a lot about desktop and web aplication.
-i'm also trying to learn about data science and machine learning.
+my name is Andika, A software engineer and data engineer.
 
 📫 How to reach me: 
   - andikaeka1201@gmail.com 
   - andika.eka@undiksha.ac.id 
-  - linked in :https://www.linkedin.com/in/andika-eka-putra-a653561a0/
+  - linked in :https://www.linkedin.com/in/andika-eka-putra/
   - ig:p_andika_ep
 
 feel free to contact me relating to my work.
