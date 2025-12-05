@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-my name is Andika, A software engineer and data engineer.
+my name is Andika, A software engineer and data engineer working full time on software consulting industry.
 
 📫 How to reach me: 
-  - andikaeka1201@gmail.com 
+  - andika.swe@gmail.com 
   - linked in :https://www.linkedin.com/in/andika-eka-putra/
   - ig:p_andika_ep
 
